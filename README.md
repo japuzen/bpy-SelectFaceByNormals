@@ -6,7 +6,7 @@
 
 ![Image of Full Pack](images/Addon%20Doc%20-%20Edit>Preferences.png)
 
-3. In *Addons* click *Install* and find the *PackingAddon.py* file.
+3. In *Addons* click *Install* and find the *Select_Faces_by_Normals_Addon.py* file.
 
 ![Image of Full Pack](images/Addon%20Doc%20-%20Addon%20Install.png)
 
