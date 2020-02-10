@@ -26,3 +26,9 @@
 4. A menu panel will pop up on the bottom left corner of the 3D Viewport. You can use this to change the Angle Limit and Group Angle Limit.
 
 ![](images/Panel.png)
+
+## Info
+This add-on takes a face or faces on an object selected by a user and expands the selection to connected faces whose normal vectors meet a specified criteria. Connected faces who all meet the critera set by the *Angle Limit* and *Group Angle Limit* are grouped together. A face is added to a group only if the following are true:
+- it is connected to a face in the group
+- the difference between the two normals of the face and the connected face in the group is less than the *Angle Limit*
+- the difference between the face's normal and the group's total normal is less than the *Group Angle Limit*
