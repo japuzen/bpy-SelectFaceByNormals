@@ -37,3 +37,5 @@ This add-on takes a face or faces on an object that were selected by a user and 
 3. The difference between the face's normal and the group's total normal is less than the *Group Angle Limit*
 
 I originally made this as a way to select flat surfaces in scan files. The angle limits can be adjusted depending on how noisy a surface is. A smoother surface would need smaller angle limits, and vice versa.
+
+![](images/Statue.png)
