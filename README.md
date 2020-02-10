@@ -16,3 +16,6 @@
 1. Select an object and go into Edit mode
 2. Select one or multiple faces
 3. Click the ***Select Connected Faces by Normals*** operator at the bottom of the ***Select*** dropdown menu. You can also use the *Search* function in Blender to find the operator (the default keybinding is F3).
+
+![](images/Select%20Dropdown.png)
+![](images/Select%20Faces%20Operator.png)
