@@ -29,13 +29,13 @@
 
 ## Info
 
-![](images/Side.png)
-
 This add-on takes a face or faces on an object that were selected by a user and expands the selection to connected faces whose normal vectors meet a specified criteria. Connected faces who all meet the critera set by the *Angle Limit* and *Group Angle Limit* are grouped together. A face is added to a group only if the following are true:
 1. It is connected to a face that is in the group
 2. The difference between the face's normal and the connected face's normal is less than the *Angle Limit*
 3. The difference between the face's normal and the group's total normal is less than the *Group Angle Limit*
 
 I originally made this as a way to select flat surfaces in scan files. The angle limits can be adjusted depending on how noisy a surface is. A smoother surface would need smaller angle limits, and vice versa.
+
+![](images/Side.png)
 
 ![](images/Statue.png)
