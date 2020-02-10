@@ -20,3 +20,7 @@
 ![](images/Select%20Dropdown.png)
 
 ![](images/Select%20Faces%20Operator.png)
+
+4. A menu panel will pop up on the bottom left corner of the 3D Viewport. You can use this to change the Angle Limit and Group Angle Limit.
+
+![](images/Panel.png)
